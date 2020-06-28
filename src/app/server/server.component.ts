@@ -1,4 +1,4 @@
-import { Component } from '@angular/core' 
+import { Component } from '@angular/core';
 
 @Component({
     selector: 'app-server',
@@ -6,7 +6,7 @@ import { Component } from '@angular/core'
     styles: [`
        .online {
            color: white
-       } 
+       }
     `]
 })
 export class ServerComponent {
